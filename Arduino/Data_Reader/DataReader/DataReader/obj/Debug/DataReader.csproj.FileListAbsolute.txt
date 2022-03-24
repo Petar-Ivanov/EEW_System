@@ -1,0 +1,7 @@
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\bin\Debug\DataReader.exe.config
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\bin\Debug\DataReader.exe
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\bin\Debug\DataReader.pdb
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\obj\Debug\DataReader.csproj.AssemblyReference.cache
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\obj\Debug\DataReader.csproj.CoreCompileInputs.cache
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\obj\Debug\DataReader.exe
+D:\Earthquake Early Warning\Arduino Stable Version\Data_Reader\DataReader\DataReader\obj\Debug\DataReader.pdb
